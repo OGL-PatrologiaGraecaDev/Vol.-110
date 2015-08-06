@@ -1,0 +1,40 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/110/pst.000005714209/003.png"; bbox 0 0 2104 3156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 709 1051 1252 1199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 709 1051 1252 1199">
+     <span class='ocr_line' id='line_1_1' title="bbox 709 1051 1252 1199; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 709 1051 1252 1199; x_wconf 56' lang='grc' dir='ltr'><strong>ρεΝΝεἮῗΙΑΝιΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 642 1231 1315 1291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 642 1231 1315 1291">
+     <span class='ocr_line' id='line_1_2' title="bbox 642 1231 1315 1291; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 642 1231 852 1288; x_wconf 92' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 901 1233 1315 1291; x_wconf 91' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 830 1324 1125 1433">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 830 1324 1125 1433">
+     <span class='ocr_line' id='line_1_3' title="bbox 830 1324 1125 1433; baseline -0.003 -54"><span class='ocrx_word' id='word_1_4' title='bbox 830 1324 1125 1433; x_wconf 43' lang='lat' dir='ltr'><strong>LIBRfRY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 990 1390 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 561 994 1386 2176">
+     <span class='ocr_line' id='line_1_4' title="bbox 561 994 1386 2176; baseline 0.005 -2"><span class='ocrx_word' id='word_1_5' title='bbox 561 994 1386 2176; x_wconf 45' lang='grc' dir='ltr'><em>Ἦ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 642 1231 1315 1291; baseline 0.012 -8"><span class='ocrx_word' id='word_1_6' title='bbox 642 1231 852 1288; x_wconf 92' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 901 1233 1315 1291; x_wconf 92' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 830 1324 1125 1433; baseline 0.058 -55"><span class='ocrx_word' id='word_1_8' title='bbox 830 1324 1125 1433; x_wconf 42' lang='lat' dir='ltr'><strong>LIBRfRY</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 850 1483 1107 1595; baseline 0.047 -8"><span class='ocrx_word' id='word_1_9' title='bbox 850 1483 1107 1595; x_wconf 52' lang='lat' dir='ltr'><strong>é°&gt;\</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1298 2872 1781 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1310 3063 1734 3132">
+     <span class='ocr_line' id='line_1_8' title="bbox 1310 3063 1734 3128; baseline -0.035 -10"><span class='ocrx_word' id='word_1_10' title='bbox 1451 3075 1585 3114; x_wconf 62' lang='grc' dir='ltr'>η</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1319 3110 1710 3132; baseline -0.033 8"><span class='ocrx_word' id='word_1_11' title='bbox 1319 3117 1349 3128; x_wconf 56' lang='grc' dir='ltr'><strong>λ⁴</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1380 3111 1444 3131; x_wconf 38' lang='lat'><strong>&quot;:25.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1565 3118 1582 3131; x_wconf 68' lang='grc' dir='ltr'><strong>ίλ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1667 3121 1670 3124; x_wconf 73' lang='lat'><strong><em>~</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1705 3124 1710 3127; x_wconf 41' lang='grc' dir='ltr'><strong>ν</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>

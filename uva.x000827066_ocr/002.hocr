@@ -1,0 +1,17 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/110/uva.x000827066/002.png"; bbox 0 0 1961 3112; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 2969 1030 3112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 2991 801 3046">
+     <span class='ocr_line' id='line_1_1' title="bbox 453 2991 801 3023; baseline -0.003 -7"><span class='ocrx_word' id='word_1_1' title='bbox 453 2992 574 3023; x_wconf 80' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_2' title='bbox 584 2991 606 3016; x_wconf 75' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_3' title='bbox 615 2991 707 3023; x_wconf 68' lang='lat' dir='ltr'>Virginia</span> <span class='ocrx_word' id='word_1_4' title='bbox 718 2991 801 3022; x_wconf 72' lang='lat' dir='ltr'>Library</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 452 3025 646 3046; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 452 3025 563 3046; x_wconf 62' lang='lat' dir='ltr'>ansam</span> <span class='ocrx_word' id='word_1_6' title='bbox 585 3026 646 3043; x_wconf 83' lang='lat' dir='ltr'>V110</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 451 3051 922 3110">
+     <span class='ocr_line' id='line_1_3' title="bbox 452 3051 922 3075; baseline 0 -5"><span class='ocrx_word' id='word_1_7' title='bbox 452 3051 501 3070; x_wconf 73' lang='lat' dir='ltr'>ALD</span> <span class='ocrx_word' id='word_1_8' title='bbox 634 3051 742 3075; x_wconf 70' lang='lat' dir='ltr'>Panologlae</span> <span class='ocrx_word' id='word_1_9' title='bbox 749 3056 811 3070; x_wconf 76' lang='lat' dir='ltr'>cuvsus</span> <span class='ocrx_word' id='word_1_10' title='bbox 820 3052 922 3074; x_wconf 75' lang='lat' dir='ltr'>completus.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 451 3079 849 3110; baseline -0.008 -21"><span class='ocrx_word' id='word_1_11' title='bbox 451 3080 590 3110; x_wconf 31' lang='lat' dir='ltr'>‘l‘q‘w</span> <span class='ocrx_word' id='word_1_12' title='bbox 627 3080 699 3108; x_wconf 45' lang='lat' dir='ltr'>i‘l‘y“!</span> <span class='ocrx_word' id='word_1_13' title='bbox 753 3079 849 3094; x_wconf 33' lang='grc' dir='ltr'><strong>ηηχη</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
